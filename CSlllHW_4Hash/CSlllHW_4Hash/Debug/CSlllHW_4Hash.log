@@ -1,0 +1,19 @@
+﻿Build started 10/17/2015 11:39:09 AM.
+     1>Project "C:\Users\austi_000\Desktop\CSlllHW_4Hash\CSlllHW_4Hash\CSlllHW_4Hash.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HashTable.cpp Main.cpp
+         HashTable.cpp
+         Generating Code...
+         Compiling...
+         Main.cpp
+     1>c:\users\austi_000\desktop\cslllhw_4hash\cslllhw_4hash\main.cpp(132): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\austi_000\Desktop\CSlllHW_4Hash\Debug\CSlllHW_4Hash.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\austi_000\Desktop\CSlllHW_4Hash\Debug\CSlllHW_4Hash.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\austi_000\Desktop\CSlllHW_4Hash\Debug\CSlllHW_4Hash.lib" /MACHINE:X86 Debug\HashTable.obj
+         Debug\Main.obj
+         CSlllHW_4Hash.vcxproj -> C:\Users\austi_000\Desktop\CSlllHW_4Hash\Debug\CSlllHW_4Hash.exe
+     1>Done Building Project "C:\Users\austi_000\Desktop\CSlllHW_4Hash\CSlllHW_4Hash\CSlllHW_4Hash.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.18
